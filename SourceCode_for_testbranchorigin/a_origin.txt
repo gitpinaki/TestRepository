@@ -1,0 +1,2 @@
+Step - 1 : Hi!I am in a_origin text
+Step - 2 : Unstaged

@@ -1,1 +1,2 @@
 Hi! I am in d_text
+This line is edited in remote repository
